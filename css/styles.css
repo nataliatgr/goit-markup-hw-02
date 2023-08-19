@@ -9,11 +9,11 @@ body {
     text-align: left;
     }
      
-    .navigation .logotype,
-    .footer-section .logotype {
+    .nav .logotype,
+    .footer .logotype {
     font-family: "Raleway", sans-serif;
     text-transform: uppercase;
-    color: var(--first-acsent-color);
+    color: #4d5ae5;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -21,7 +21,7 @@ body {
     }
     
     .acsent-logo {
-    var(--primary-color);
+    color: #2e2f42;
     }
     .link {
     text-decoration: none;
@@ -29,14 +29,17 @@ body {
     }
     .link:hover,
     .link:focus {
-        color: var(--second-acsent-color);
+        color: #2e2f42;
     }
     .link:active {
-        color: var(--second-acsent-color);
+        color: #404bbf;
     }
     .nav-link {
-        color: var(--primary-color);
+        color: #404bbf;
     font-weight: 500;
+    }
+    .contacts {
+        font-style: normal;
     }
     button {
         cursor: pointer;
