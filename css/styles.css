@@ -1,8 +1,44 @@
 body {
-    color: #434455;
-    background-color: #FFFFFF 
     font-family: "Roboto", sans-serif;
-}
+    background-color: var(--white-color);
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: left;
+    }
+     
+    .navigation .logotype,
+    .footer-section .logotype {
+    font-family: "Raleway", sans-serif;
+    text-transform: uppercase;
+    color: var(--first-acsent-color);
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    }
+    
+    .acsent-logo {
+    var(--primary-color);
+    }
+    .link {
+    text-decoration: none;
+    color: #434455;
+    }
+    .link:hover,
+    .link:focus {
+        color: var(--second-acsent-color);
+    }
+    .link:active {
+        color: var(--second-acsent-color);
+    }
+    .nav-link {
+        color: var(--primary-color);
+    font-weight: 500;
+    }
+
 h1 {
     font-family: Roboto;
 weight: Bold;
