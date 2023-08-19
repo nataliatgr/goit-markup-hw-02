@@ -41,31 +41,43 @@ body {
     .contacts {
         font-style: normal;
     }
-    button {
-        cursor: pointer;
-        color: whitesmoke;
-        background-color: #4D5AE5; 
-        font-family: Roboto;
-        weight: medium;
-        size: 16px;
-        line-height: 24px;
-        letter-spacing: 4%;
-    }
+    
     .address-link:hover,
     .address-link:focus {
     color: #404bbf;
     }
-    .button:hover,
-    .button:focus {
-        color: #404bbf;
+    .order-button:hover {
+        background-color: #404BBF
     }
-h1 {
+    .order-button:focus {
+        background-color: #404BBF;
+    }
+.hero {
     font-family: Roboto;
 weight: Bold;
-size: 56px;
+color: #2e2f42 
+font-size: 56px;
+line-height: 1.07;
 letter-spacing: 2%;
 line-height: 60px;
 }
+.hero-header {
+    color: #ffffff 
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.order-button {
+        cursor: pointer;
+        color: #ffffff;
+        background-color: #4D5AE5; 
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        size: 16px;
+        line-height: 24px;
+        letter-spacing: 0.04em;
+    }
 h2 {
     font-family: Roboto;
     weight: bold;
