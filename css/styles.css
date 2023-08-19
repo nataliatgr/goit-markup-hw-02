@@ -38,7 +38,24 @@ body {
         color: var(--primary-color);
     font-weight: 500;
     }
-
+    button {
+        cursor: pointer;
+        color: whitesmoke;
+        background-color: #4D5AE5; 
+        font-family: Roboto;
+        weight: medium;
+        size: 16px;
+        line-height: 24px;
+        letter-spacing: 4%;
+    }
+    .address-link:hover,
+    .address-link:focus {
+    color: #404bbf;
+    }
+    .button:hover,
+    .button:focus {
+        color: #404bbf;
+    }
 h1 {
     font-family: Roboto;
 weight: Bold;
@@ -51,22 +68,4 @@ h2 {
     weight: bold;
     size: 36px;
     letter-spacing: 2%;
-}
-button {
-    cursor: pointer;
-    color: whitesmoke;
-    background-color: #4D5AE5; 
-    font-family: Roboto;
-    weight: medium;
-    size: 16px;
-    line-height: 24px;
-    letter-spacing: 4%;
-}
-.address-link:hover,
-.address-link:focus {
-color: #404bbf;
-}
-.button:hover,
-.button:focus {
-    color: #404bbf;
 }
