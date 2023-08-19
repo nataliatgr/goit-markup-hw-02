@@ -14,13 +14,7 @@ body {
     }
      
     .acsent-logo {
-    font-family: "Raleway", sans-serif;
-    text-transform: uppercase;
     color: #2e2f42;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
     }   
     .link-nav-link {
         font-weight: 500;
