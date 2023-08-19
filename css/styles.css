@@ -3,11 +3,16 @@ body {
     background-color: #FFFFFF 
     font-family: "Roboto", sans-serif;
 }
-
+header {
+    font-family: Roboto;
+    weight: bold;
+    size: 36px;
+    letter-spacing: 2%;
+}
 button {
     cursor: pointer;
     color: whitesmoke;
-    background-color: #4D5AE5;
+    background-color: #4D5AE5; 
     font-family: Roboto;
     weight: medium;
     size: 16px;
