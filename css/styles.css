@@ -14,3 +14,11 @@ button {
     line-height: 24px;
     letter-spacing: 4%;
 }
+.address-link:hover,
+.address-link:focus {
+color: #404bbf;
+}
+.button:hover,
+.button:focus {
+    color: #404bbf;
+}
