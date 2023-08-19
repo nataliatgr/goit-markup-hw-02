@@ -78,9 +78,35 @@ line-height: 60px;
         line-height: 24px;
         letter-spacing: 0.04em;
     }
-h2 {
+.advantages-list {
     font-family: Roboto;
-    weight: bold;
-    size: 36px;
-    letter-spacing: 2%;
+    color: #2e2f42;
+    font-weight: 500;
+    font-size: 20px
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+}
+.advantages-item1-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.advantages-item2-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.advantages-item3-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+.advantages-item4-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
