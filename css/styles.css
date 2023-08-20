@@ -13,13 +13,13 @@ body {
     text-align: left;
     }
      
-    .link-logotype {
-        color: #2e2f42;
-    }
     .acsent-logo {
+        color: #f4f4fd;
+        }    
+    .link-logotype {
         font-family: "Raleway", sans-serif;
         text-transform: uppercase;
-        color: #f4f4fd;
+        color: #2e2f42;
         font-size: 18px;
         font-weight: 700;
         line-height: 1.17;
