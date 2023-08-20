@@ -11,8 +11,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
-    }   
-    
+    }      
     .link-logotype {
         font-family: "Raleway", sans-serif;
         text-transform: uppercase;
@@ -22,7 +21,7 @@ body {
         line-height: 1.17;
         letter-spacing: 0.03em;
         }   
-        .acsent-logo {
+    .acsent-logo {
             color: #2e2f42;
         }
     .link-nav-link {
